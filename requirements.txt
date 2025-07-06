@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+python-jose
+PyJWT
+python-multipart
+aiofiles
