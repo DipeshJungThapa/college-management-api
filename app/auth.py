@@ -9,7 +9,6 @@ ACCESS_TOKEN_EXPIRE_MINUTES = 30
 
 router = APIRouter()
 
-# Hardcoded user (username: admin, password: admin)
 fake_user = {
     "username": "admin",
     "password": "admin"
